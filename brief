@@ -1,0 +1,9 @@
+ 
+***** pwd *****
+/d/UTrains March 2024/class_work/practicinggit/practice
+ 
+***** ls *****
+total 3
+-rw-r--r-- 1 findi 197609  28 Jul  4 01:21 README.md
+-rw-r--r-- 1 findi 197609  91 Jul  4 01:38 brief
+-rwxr-xr-x 1 findi 197609 162 Jul  4 01:38 nze.sh
